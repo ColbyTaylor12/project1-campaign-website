@@ -29,3 +29,37 @@ Has no idea who is running but would like to be well informed when she makes her
 * As Fred I would like a button that I can click to show me when I am supposed to vote because I already know I am voting for this     candidate. 10
 
 * As Ida I would like to be able to view information both in tid bits and a more in depth look into my interests to make an informed   decision on my voting decision. 20
+  
+## MVP 
+
+Must
+
+* Have pictures of the candidate on the site. 
+
+* Have the candidates views and achievements on the page. 
+  
+* Have a reminder of the election day.
+
+* Have an area for more information to be accessed.
+
+Should
+
+* Should have pictures that make the candidate more appealing to the voter. 
+  
+* Have a button that shows you the election day.
+
+* List group w/ links to the acievements on wiki page.
+
+* Pictures as anchor tags that will take you to more info about the beliefs the pictures depict.
+  
+Could 
+
+* Could have comments section. 
+
+* Could have an email link for a mailer. 
+  
+Wont
+
+* Have functional animation due to lack of knowledge.
+
+* Have functional social media share links. 
